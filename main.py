@@ -13,7 +13,7 @@ import random
 
 from createGraphics import graphicGame
 
-boards = {0: "board0.csv", 1: "board1.csv", 2: "board2.csv", 3: "board3.csv"}
+boards = {0: "boards/board0.csv", 1: "boards/board1.csv", 2: "boards/board2.csv", 3: "boards/board3.csv"}
 
 x1 = [1, 2, 3]
 y1 = [1, 2, 3]
