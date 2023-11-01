@@ -1,13 +1,3 @@
-###############
-# CMPT 120 
-# main.py
-# Programmed by: Colton Blackwell
-# Date: December 4th, 2021
-
-# Name: Even/Odd Graphical Game (Final Project)
-# - This game can be played by yourself or against AI
-
-
 import datetime as dt
 import random
 
